@@ -12,7 +12,7 @@ You can find the adobe XD prototype files used in designing this project on the 
 
 - hopla-calendar-test/adobe_xd/**Android-mobile-portrait.xd**
 - hopla-calendar-test/adobe_xd/**Desktop-view.xd**
-- hopla-calendar-test/adobe_xd/**Table-landscape.xd**
+- hopla-calendar-test/adobe_xd/**Tablet-landscape.xd**
 
 ### Up and Run
 To Up and Run this app, please do the following
@@ -22,6 +22,6 @@ To Up and Run this app, please do the following
 - Open CMD, go to the project root folder and run the following command
 - **npm install** this will install all dependencies of the project
 - **npm start** this will compile and run the project. It will open a browser with the following link
--- http://localhost:3000/
+ http://localhost:3000/
 
 ## Designed and Developed by ***Marvin Fontanilla***
