@@ -2,7 +2,7 @@
 
 A calendar prototype designed and developed using **Adobe XD prototype** and **ReactJS**
 
-###Live example
+### Live example
 [Click Me](https://gifted-lichterman-78dbe8.netlify.com/ "https://gifted-lichterman-78dbe8.netlify.com/") to access live example of this app
 
 [Click Me](https://drive.google.com/file/d/1_-r9-h_SXxys_MlCwWG1bwkyrBnMm7MO/view "Demo") to watch a simple video demo of this app showing different screens and sizes
